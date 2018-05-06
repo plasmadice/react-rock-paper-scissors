@@ -3,6 +3,10 @@
 ##### This project is live [here](https://plasmadice.github.io/react-rock-paper-scissors).
 
 
+###### How to Play
+
+The game has 5 rounds. The first to reach 5 rounds wins.
+
 This is the second project that I have created with React. This one is to replace the original Rock-Paper-Scissors app.
 
 In this session I learned how to effectively section apps by creating components and how to make components work together through props.
